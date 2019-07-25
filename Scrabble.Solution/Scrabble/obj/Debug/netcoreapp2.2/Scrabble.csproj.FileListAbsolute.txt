@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/numberToWords/Scrabble.Solution/Scrabble/bin/Debug/netcoreapp2.2/Scrabble.deps.json
+/Users/Guest/Desktop/numberToWords/Scrabble.Solution/Scrabble/bin/Debug/netcoreapp2.2/Scrabble.runtimeconfig.json
+/Users/Guest/Desktop/numberToWords/Scrabble.Solution/Scrabble/bin/Debug/netcoreapp2.2/Scrabble.runtimeconfig.dev.json
+/Users/Guest/Desktop/numberToWords/Scrabble.Solution/Scrabble/bin/Debug/netcoreapp2.2/Scrabble.dll
+/Users/Guest/Desktop/numberToWords/Scrabble.Solution/Scrabble/bin/Debug/netcoreapp2.2/Scrabble.pdb
+/Users/Guest/Desktop/numberToWords/Scrabble.Solution/Scrabble/obj/Debug/netcoreapp2.2/Scrabble.csprojAssemblyReference.cache
+/Users/Guest/Desktop/numberToWords/Scrabble.Solution/Scrabble/obj/Debug/netcoreapp2.2/Scrabble.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/numberToWords/Scrabble.Solution/Scrabble/obj/Debug/netcoreapp2.2/Scrabble.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/numberToWords/Scrabble.Solution/Scrabble/obj/Debug/netcoreapp2.2/Scrabble.AssemblyInfo.cs
+/Users/Guest/Desktop/numberToWords/Scrabble.Solution/Scrabble/obj/Debug/netcoreapp2.2/Scrabble.dll
+/Users/Guest/Desktop/numberToWords/Scrabble.Solution/Scrabble/obj/Debug/netcoreapp2.2/Scrabble.pdb
