@@ -1,0 +1,17 @@
+/Users/Guest/Desktop/numberToWords/Scrabble.Solution/Scrabble.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/numberToWords/Scrabble.Solution/Scrabble.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/numberToWords/Scrabble.Solution/Scrabble.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/numberToWords/Scrabble.Solution/Scrabble.Tests/bin/Debug/netcoreapp2.2/Model.Tests.deps.json
+/Users/Guest/Desktop/numberToWords/Scrabble.Solution/Scrabble.Tests/bin/Debug/netcoreapp2.2/Model.Tests.runtimeconfig.json
+/Users/Guest/Desktop/numberToWords/Scrabble.Solution/Scrabble.Tests/bin/Debug/netcoreapp2.2/Model.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/numberToWords/Scrabble.Solution/Scrabble.Tests/bin/Debug/netcoreapp2.2/Model.Tests.dll
+/Users/Guest/Desktop/numberToWords/Scrabble.Solution/Scrabble.Tests/bin/Debug/netcoreapp2.2/Model.Tests.pdb
+/Users/Guest/Desktop/numberToWords/Scrabble.Solution/Scrabble.Tests/bin/Debug/netcoreapp2.2/Scrabble.dll
+/Users/Guest/Desktop/numberToWords/Scrabble.Solution/Scrabble.Tests/bin/Debug/netcoreapp2.2/Scrabble.pdb
+/Users/Guest/Desktop/numberToWords/Scrabble.Solution/Scrabble.Tests/obj/Debug/netcoreapp2.2/Model.Tests.csprojAssemblyReference.cache
+/Users/Guest/Desktop/numberToWords/Scrabble.Solution/Scrabble.Tests/obj/Debug/netcoreapp2.2/Model.Tests.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/numberToWords/Scrabble.Solution/Scrabble.Tests/obj/Debug/netcoreapp2.2/Model.Tests.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/numberToWords/Scrabble.Solution/Scrabble.Tests/obj/Debug/netcoreapp2.2/Model.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/numberToWords/Scrabble.Solution/Scrabble.Tests/obj/Debug/netcoreapp2.2/Model.Tests.csproj.CopyComplete
+/Users/Guest/Desktop/numberToWords/Scrabble.Solution/Scrabble.Tests/obj/Debug/netcoreapp2.2/Model.Tests.dll
+/Users/Guest/Desktop/numberToWords/Scrabble.Solution/Scrabble.Tests/obj/Debug/netcoreapp2.2/Model.Tests.pdb

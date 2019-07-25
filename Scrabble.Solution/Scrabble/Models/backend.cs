@@ -11,23 +11,60 @@ public class Item
     
     public static Dictionary<int,string> TensNum = new Dictionary<int,string>() { {2,"twenty"},{3,"thirty"},{4,"fourty"},{5,"fifty"},{6,"sixty"},{7,"seventy"},{8,"eighty"},{9,"ninety"} };
 
+    public static Dictionary<int,string> HundredNum = new Dictionary<int,string>() { {1,"One hundred "}, {2,"Two hundred "},{3,"Three hundred "},{4,"Four hundred "},{5,"Five hundred "},{6,"Six hundred "},{7,"Seven hundred "},{8,"Eight hundred "},{9,"Nine hundred "} };
+
+       public static Dictionary<int,string> thousandNum = new Dictionary<int,string>() { {1,"One Thousand "}, {2,"Two thousand "},{3,"Three thousand "},{4,"Four thousand "},{5,"Five thousand "},{6,"Six thousand "},{7,"Seven thousand "},{8,"Eight thousand "},{9,"Nine thousand "} };
+
     public string conversion (int num)
     {
         string unitSpell="";
         string tensSpell="";
+        string hundredSpell="";
+        string thousandSpell ="";
         if (num.ToString().Length == 1)
         {
             unitSpell= UnitNum[num];
             return unitSpell;
 
         }
-        else 
+        else if (num<=19)
         {
-            int index= num/10;
-            tensSpell= TensNum[index];
+            return TensException[num];
+        }
+        else if (num.ToString().Length == 2)
+        {
+            int i= num/10;
+            tensSpell= TensNum[i];
             int j= num%10;
-            unitSpell= UnitNum[j];
-            return (tensSpell + unitSpell);
+            if (j!=0)
+            {
+             unitSpell = conversion(j);
+            }
+            return (tensSpell+unitSpell); 
+        }
+        else if(num.ToString().Length == 3)
+        {
+            int i= num/100;
+            hundredSpell= HundredNum[i];
+            int j= num%100;
+            if (j!=0)
+            {
+             tensSpell = conversion(j);
+            }
+          
+            return (hundredSpell+tensSpell); 
+        }
+
+        else
+        {
+            int i = num/1000;
+            thousandSpell = thousandNum[i];
+            int j = num%1000;
+            if(j!= 0)
+            {
+                hundredSpell = conversion(j);
+            }
+            return (thousandSpell + hundredSpell + tensSpell);
         }
         
     }
